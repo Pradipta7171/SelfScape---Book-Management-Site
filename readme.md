@@ -53,9 +53,6 @@ npm run dev
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to view application screenshots</summary>
-
 ### Home Page
 ![Home Page](/public/home.png)
 
@@ -64,7 +61,7 @@ npm run dev
 
 ### Book Details
 ![Book Details](/public/book-details.png)
-</details>
+
 
 ## 🧪 Testing
 
