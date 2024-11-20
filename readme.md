@@ -57,13 +57,13 @@ npm run dev
 <summary>Click to view application screenshots</summary>
 
 ### Home Page
-![Home Page](/screenshots/home.png)
+![Home Page](/public/home.png)
 
 ### Book Collection
-![Book Collection](/screenshots/collection.png)
+![Book Collection](/public/collection.png)
 
 ### Book Details
-![Book Details](/screenshots/book-details.png)
+![Book Details](/public/book-details.png)
 </details>
 
 ## 🧪 Testing
